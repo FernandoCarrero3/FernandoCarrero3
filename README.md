@@ -54,7 +54,7 @@ Backend robusto con control de flujo de información relacional y API REST.
 
 <div align="center">
 
-![FernandoCarrero3's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoCarrero3&show_icons=true&theme=dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FernandoCarrero3&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
