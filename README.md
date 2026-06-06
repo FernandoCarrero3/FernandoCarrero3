@@ -37,26 +37,16 @@ Desarrollador de software en formación con experiencia en sistemas de bajo nive
 ## 🚀 Proyectos Destacados
 
 ### 🎮 [Genotype Unity Game](enlace)
-Videojuego desarrollado en Unity con C#. Mecánicas avanzadas de gameplay y arquitectura modular de componentes.
+Videojuego desarrollado en Unity en 3D con C#. Mecánicas avanzadas de gameplay y arquitectura modular de componentes.
 
 ### ⚔️ [KnightsEscape](enlace)
-Juego de escape con lógica de puzzles, gestión de estado y diseño de niveles procedural.
+Juego de escape en 2D con lógica de puzzles, gestión de estado y diseño de niveles profesional.
 
 ### 🛒 [E-Commerce Platform](enlace)
 Aplicación web full-stack con React, Node.js y gestión de base de datos relacional.
 
 ### 📋 [Sistema de Gestión de Reservas](enlace)
 Backend robusto con control de flujo de información relacional y API REST.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FernandoCarrero3&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
