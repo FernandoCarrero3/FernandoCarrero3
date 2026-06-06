@@ -40,6 +40,10 @@ Aplicación web full-stack con React, Node.js y gestión de base de datos relaci
 
 ### 📋 [Sistema de Gestión de Reservas](enlace)
 Backend robusto con control de flujo de información relacional y API REST.
+---
+## 📊 Activity & Analytics
+
+![Metrics](https://raw.githubusercontent.com/FernandoCarrero3/FernandoCarrero3/main/github-metrics.svg)
 
 ---
 
