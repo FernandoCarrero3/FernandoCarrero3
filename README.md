@@ -1,37 +1,66 @@
-# ¡Hola! Soy Fernando Carrero Pérez 👋
+<div align="center">
 
-Futuro Ingeniero Informático por la Universidad de Huelva (UHU) con mentalidad analítica y apasionado por el desarrollo de software, los sistemas distribuidos y la creación de soluciones interactivas.
+# Fernando Carrero Pérez
 
----
+**Ingeniero Informático · Universidad de Huelva**
 
-### 🚀 Sobre mí
-- 🎓 Estudiante de último año de Ingeniería Informática en la UHU.
-- 🌍 Experiencia internacional durante mi formación en KU Leuven (Lovaina, Bélgica).
-- 💻 Enfocado en el diseño de software eficiente, arquitectura limpia y optimización de algoritmos.
-- ⚡ Disfruto tanto del desarrollo web/móvil moderno como de la lógica de bajo nivel y entornos multimedia.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-carrero/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fernaandocp3@gmail.com)
 
----
-
-### 🛠️ Tecnologías y Herramientas
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | C, C++, C#, Java, Python, JavaScript |
-| **Frontend & Mobile** | React, React Native, HTML5, CSS3, Tailwind CSS |
-| **Backend & Sistemas** | Node.js, Express, Java Swing, Sistemas Distribuidos |
-| **Bases de Datos** | SQL, MySQL, PL/SQL, MongoDB |
-| **Herramientas & Motores** | Git, Unity, UML, Modelado Entidad-Relación |
+</div>
 
 ---
 
-### 📂 Proyectos Destacados en mi Perfil
-- **Genotype-Unity-Game & KnightsEscape:** Desarrollos interactivos y mecánicas avanzadas en Unity usando C#.
-- **E-Commerce & Dashboards:** Aplicaciones web robustas que integran arquitecturas basadas en JavaScript (React/Node.js) y gestión de datos.
-- **Gestión de Reservas:** Soluciones backend y control de flujos de información relacional.
+Desarrollador de software en formación con experiencia en sistemas de bajo nivel, arquitecturas web modernas y desarrollo de videojuegos. Formación internacional en **KU Leuven (Bélgica)** y enfoque en escribir código limpio, eficiente y mantenible.
 
 ---
 
-📬 **¿Cómo contactar conmigo?**
-- **LinkedIn:** [linkedin.com/in/fernando-carrero](https://www.linkedin.com/in/fernando-carrero/)
-- **Email:** fernaandocp3@gmail.com
-- **Telefono:** +34 722 23 53 03
+## 🛠️ Stack Tecnológico
+
+**Lenguajes**
+`C` `C++` `C#` `Java` `Python` `JavaScript`
+
+**Frontend & Mobile**
+`React` `React Native` `HTML5` `CSS3` `Tailwind CSS`
+
+**Backend & Sistemas**
+`Node.js` `Express` `Sistemas Distribuidos` `IPC Linux`
+
+**Bases de Datos**
+`MySQL` `PL/SQL` `MongoDB`
+
+**Herramientas**
+`Git` `Unity` `UML` `Linux`
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🎮 [Genotype Unity Game](enlace)
+Videojuego desarrollado en Unity con C#. Mecánicas avanzadas de gameplay y arquitectura modular de componentes.
+
+### ⚔️ [KnightsEscape](enlace)
+Juego de escape con lógica de puzzles, gestión de estado y diseño de niveles procedural.
+
+### 🛒 [E-Commerce Platform](enlace)
+Aplicación web full-stack con React, Node.js y gestión de base de datos relacional.
+
+### 📋 [Sistema de Gestión de Reservas](enlace)
+Backend robusto con control de flujo de información relacional y API REST.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Abierto a oportunidades de desarrollo y colaboración · <a href="mailto:fernaandocp3@gmail.com">Escríbeme</a></sub>
+</div>
