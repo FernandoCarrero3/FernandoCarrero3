@@ -54,8 +54,8 @@ Backend robusto con control de flujo de información relacional y API REST.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoCarrero3&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCarrero3&layout=compact&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoCarrero3&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCarrero3&layout=compact&hide_border=true&theme=dark)
 
 </div>
 
